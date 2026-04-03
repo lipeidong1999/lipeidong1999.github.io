@@ -9,11 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="text-align: center; font-size: 0.9rem; line-height: 1.5;">
-      Division of Atomic, Molecular and Optical Physics<br>
-      <b>Innovation Academy for Precision Measurement Science and Technology (APM)</b><br>
-      Chinese Academy of Sciences<br>
-      Wuhan, China
+    <div style="text-align: center; font-size: 0.85rem;">
+      <i class="fa-solid fa-building-columns"></i> Division of AMO Physics<br>
+      <i class="fa-solid fa-university"></i> CAS - APM<br>
+      <i class="fa-solid fa-location-dot"></i> Wuhan, CN
     </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

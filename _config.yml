@@ -279,8 +279,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: ["Li","李","li"]
-  first_name: ["Pei-Dong","沛东","peidong","P.-D."]
+  last_name: ["Li","李","li","LI"]
+  first_name: ["Pei-Dong","沛东","peidong","P.-D.","李沛东","Peidong"]
 
   style: apa
   locale: en

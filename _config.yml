@@ -280,7 +280,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: ["Li","李","li"]
-  first_name: ["Pei-Dong","沛东","peidong"]
+  first_name: ["Pei-Dong","沛东","peidong","P.-D."]
 
   style: apa
   locale: en

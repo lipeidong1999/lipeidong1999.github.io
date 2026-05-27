@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-27'
 papers:
   OrOJY34AAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Vibrational resonance via a single-ion phonon laser
     year: '2025'
   OrOJY34AAAAJ:9yKSN-GCB0IC:
-    citations: 5
+    citations: 6
     title: Stochastic resonance via single-ion phonon laser
     year: '2024'
   OrOJY34AAAAJ:IjCSPb-OGe4C:
-    citations: 1
+    citations: 2
     title: Experimental witness of quantum jump induced high-order Liouvillian exceptional points
     year: '2026'
   OrOJY34AAAAJ:W7OEmFMy1HYC:
@@ -21,6 +21,10 @@ papers:
     citations: 2
     title: Building and characterizing a stylus ion-trap system
     year: '2024'
+  OrOJY34AAAAJ:eQOLeE2rZwMC:
+    citations: 0
+    title: Enhanced detection of electric field signals via squeezing-induced stochastic resonance
+    year: '2026'
   OrOJY34AAAAJ:qjMakFHDy7sC:
     citations: 5
     title: Experimental demonstration of single-spin Stirling engine cycles with enhanced efficiency

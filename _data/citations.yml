@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-27'
 papers:
   OrOJY34AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,8 +10,12 @@ papers:
     title: Stochastic resonance via single-ion phonon laser
     year: '2024'
   OrOJY34AAAAJ:IjCSPb-OGe4C:
-    citations: 8
+    citations: 9
     title: Experimental witness of quantum jump induced high-order Liouvillian exceptional points
+    year: '2026'
+  OrOJY34AAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Single-atom sensor for low-frequency electric field
     year: '2026'
   OrOJY34AAAAJ:W7OEmFMy1HYC:
     citations: 1

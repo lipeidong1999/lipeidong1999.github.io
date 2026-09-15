@@ -1,52 +1,128 @@
 cv:
   name: Pei-Dong Li
-  label: Physicist / Graduate Student
+  label: Physics Researcher
   email: lipeidong21@mails.ucas.ac.cn
-  location: APM-CAS, Wuhan
-  image: "" # 如果你想添加头像，可以在这里填写图片路径，比如 assets/img/prof_pic.jpg
-  summary: I am a graduate student at UCAS, focusing on quantum physics. "在这里写一句简短的自我总结，比如：I am a graduate student at UCAS, focusing on quantum physics." # 英文简介
+  location: APM-CAS, Wuhan, China
+  image: ""
+  summary: "Experimental physicist focusing on trapped-ion quantum information, quantum thermodynamics, and motional-state engineering."
+
 
   sections:
-    Education: # 教育经历
-      - institution: University of Chinese Academy of Sciences (UCAS)
-        location: Beijing/Wuhan, China
-        url: https://www.ucas.ac.cn/
+    Education:
+      - institution: Innovation Academy for Precision Measurement Science and Technology, Chinese Academy of Sciences (APM, CAS)
+        location: Wuhan, China
+        url: http://www.apm.cas.cn/
         area: Physics
-        studyType: 【硕士学位/博士学位】
-        start_date: 【比如 2021】
-        end_date: 【比如 2024 或 present】
-        score: "" # 如果有 GPA 可以填，没有就留空
-        courses: "" # 可以填一些核心课程
+        studyType: Ph.D.
+        start_date: 2021
+        end_date: Winter 2026 (expected)
+        score: ""
+        courses: ""
         highlights:
-          - 【在这里写你的研究/学习亮点，比如：Research on quantum computing】
-          - 【可以多写几条】
+          - "Division of Atomic, Molecular and Optical Physics"
+          - "Advisor: Prof. Mang Feng; Co-supervisor: Dr. Liang Chen"
+          - "Research Focus: Trapped-ion quantum thermodynamics and motional-state engineering"
 
-    Experience: # 工作/实习/科研经历
-      - company: 【单位名称，比如 APM-CAS】
-        position: 【职位，比如 Research Assistant】
-        location: 【城市，比如 Wuhan】
-        start_date: 【开始时间，比如 2022-09】
-        end_date: 【结束时间，比如 2023-06】
-        summary: 【一段描述，介绍一下你的主要工作】
+      - institution: Wuhan University
+        location: Wuhan, China
+        url: https://www.whu.edu.cn/
+        area: Physics
+        studyType: B.Sc.
+        start_date: 2017
+        end_date: 2021
+        score: ""
+        courses: ""
+        highlights: []
+
+    Experience:
+      - company: APM, CAS
+        position: Research Assistant
+        location: Wuhan, China
+        start_date: 2021
+        end_date: Present
+        summary: "Setup, optimized, and maintained the surface-electrode ion trap system. Performed micromotion compensation and sideband cooling to near motional ground state. Established coherent control of internal and external degrees of freedom."
         highlights:
-          - 【工作亮点 1】
-          - 【工作亮点 2】
+          - "Single-ion phonon laser in the quantum regime (2025-2026)"
+          - "Hybrid exceptional points in dissipative quantum systems (2025)"
+          - "Single-ion Quantum Szilard Engine (2024)"
+          - "Quantum jump induced Liouvillian exceptional points (2024)"
+          - "Single-spin Quantum Stirling Engine (2022-2023)"
 
-    # 其他如 Volunteer（志愿活动）、Awards（获奖）、Publications（发表论文）等
-    # 如果暂时没有，可以直接删掉，或者留着不填
     Awards:
-      - title: 【奖项名称】
-        date: 【获奖时间】
-        awarder: 【颁发机构】
-        summary: 【奖项描述】
+      - title: Outstanding Student Leader
+        date: 2023
+        awarder: University of Chinese Academy of Sciences
+        summary: "Awarded for 2021-2022 and 2022-2023"
+      - title: Merit Student
+        date: 2025
+        awarder: University of Chinese Academy of Sciences
+        summary: "Awarded for 2023-2024, 2024-2025, and 2025-2026"
+      - title: Third Prize, Wuhan City Science Popularization Contest
+        date: 2024
+        awarder: Wuhan City
+        summary: ""
+      - title: Excellence Award, Hubei Province Science Popularization Short Video Contest
+        date: 2024
+        awarder: Hubei Province
+        summary: ""
 
-    Skills: # 技能
-      - name: Physics
-        level: Master # 你可以改成 Beginner, Intermediate, Master 等
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information" # 关键词按你的方向写
+    Publications:
+      - title: "Finite-time electrometry with a quantum-regime single-ion phonon laser"
+        authors:
+          - Pei-Dong Li
+          - Yuan-Zhang Dong
+          - Zhuo-Zhu Wu
+        publisher: "Under submission"
+        releaseDate: 2026
+        url: ""
+        summary: ""
+      - title: "Continuous activation of quantum jumps bridges Hamiltonian and Liouvillian exceptional points"
+        authors:
+          - Pei-Dong Li
+          - Zhuo-Zhu Wu
+        publisher: "Under submission"
+        releaseDate: 2026
+        url: ""
+        summary: "Co-first authors."
+      - title: "Experimental witness of phonon-transfer trajectories in a cyclic quantum Szilard engine"
+        authors:
+          - Pei-Dong Li
+          - Zhuo-Zhu Wu
+          - Kai-Feng Cui
+        publisher: "Under submission"
+        releaseDate: 2026
+        url: ""
+        summary: "Co-first authors."
+      - title: "Experimental witness of quantum jump induced high-order Liouvillian exceptional points"
+        authors:
+          - Zhuo-Zhu Wu
+          - Pei-Dong Li
+          - Tai-Hao Cui
+        publisher: "Nature Communications"
+        releaseDate: 2026
+        url: ""
+        summary: "Co-first authors."
+      - title: "Experimental demonstration of single-spin Stirling engine cycles with enhanced efficiency"
+        authors:
+          - Pei-Dong Li
+          - G.-Y. Ding
+          - J.-Q. Zhang
+        publisher: "Physical Review A"
+        releaseDate: 2025
+        url: ""
+        summary: "Co-first authors."
 
-    Languages: # 语言
+    Skills:
+      - name: Experimental Physics
+        level: Master
+        icon: fa-solid fa-flask
+        keywords: "Surface-electrode ion trap operation, micromotion compensation, sideband cooling, coherent spin-motion control, Fock-state preparation, phonon-number reconstruction"
+      - name: Computational
+        level: Intermediate
+        icon: fa-solid fa-code
+        keywords: "Python, MATLAB, LabVIEW, SolidWorks, Altium Designer"
+
+    Languages:
       - name: Chinese
         summary: "Native speaker"
       - name: English
